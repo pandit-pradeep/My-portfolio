@@ -79,7 +79,7 @@ export default function Home() {
       </div>
 
 
-      <div className="relative pt-24  z-10 h-full w-full max-w-7xl md:ml-25 mx-auto px-4 grid grid-cols-1 lg:grid-cols-2">
+      <div className="relative pt-55  z-10 h-full w-full max-w-7xl md:ml-25 mx-auto px-4 grid grid-cols-1 lg:grid-cols-2">
 
         <div className="flex flex-col justify-center h-full text-center lg:text-left relative">
           <div className="w-full lg:pr-24 mx-auto max-w-[48rem]">
